@@ -12,7 +12,7 @@ This notebook is designed to process, clean, and analyze cancer-related datasets
 
 1. Clone this repository to your local machine.
 2. Specify data directory and output directory in the first cell.
-3. Open the notebook (`task1_data_preprocessing.ipynb`) using Jupyter Notebook or any compatible platform.
+3. Open the notebook (`task1_datapreprocessing.ipynb`) using Jupyter Notebook or any compatible platform.
 4. Execute the cells step by step to perform data processing and analysis.
 
 ## Dependencies
